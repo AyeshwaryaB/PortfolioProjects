@@ -1,1 +1,7 @@
-Performed data cleaning and exploratory data analysis on employment(World layoffs Dataset) and healthcare datasets(Covid-19 Datasets and Healthcare dataset) using advanced SQL techniques, including Joins, CTEs,Window Functions, Aggregate Functions, and Data Type conversions.
+Performed data cleaning and exploratory data analysis on employment and healthcare datsets using advanced SQL techniques, including Joins, CTEs,Window Functions, Aggregate Functions, and Data Type conversion. Developed dashboards in Tableau to convey key metrics and trends.
+File info:
+Employment - World Layoffs datset
+Healthcare - Covid -19 and Healthcare datasets
+
+Conducted data cleaning on real estate/housing dataset using advanced Excel functions, including Pivot tables to summarize data. Built dashboards in Excel to communicate demographic segments, customer behaviour and income trends. 
+File info: Nashville Housing dataset
